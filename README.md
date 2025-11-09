@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="C:\arduino-dw1000-jjletsgo\img\logo.png">
+  <img width="400" height="400" alt="image" src="\img\logo.png" />
 </div>
 <br/>
 <div align="center">
